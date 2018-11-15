@@ -1,0 +1,3 @@
+﻿  ShortestHorsePath.cpp
+c:\users\nickita\desktop\shortesthorsepath\shortesthorsepath\shortesthorsepath.cpp(80): warning C4101: i: неиспользованная локальная переменная
+  ShortestHorsePath.vcxproj -> C:\Users\Nickita\Desktop\ShortestHorsePath\Debug\ShortestHorsePath.exe

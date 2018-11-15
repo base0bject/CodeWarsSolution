@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Playing with Digits.cpp
+c:\users\nickita\desktop\playing with digits\playing with digits\playing with digits.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nickita\desktop\playing with digits\playing with digits\playing with digits.cpp(30): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\nickita\desktop\playing with digits\playing with digits\playing with digits.cpp(39): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "assert"
+  Playing with Digits.vcxproj -> C:\Users\Nickita\Desktop\Playing with Digits\Debug\Playing with Digits.exe
