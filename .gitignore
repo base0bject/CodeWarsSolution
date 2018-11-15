@@ -17,7 +17,6 @@ bld/
 [Bb]in/
 [Oo]bj/
 build/
-Debug/
 
 # Roslyn cache directories
 *.ide/
@@ -60,7 +59,6 @@ dlldata.c
 *.pidb
 *.svclog
 *.scc
-*.sln
 
 # Chutzpah Test files
 _Chutzpah*
@@ -239,3 +237,9 @@ coverage.xml
 
 #Msbuild binary log output
 output.binlog
+
+AkavacheSqliteLinkerOverride.cs
+NuGetBuild
+WiX.Toolset.DummyFile.txt
+nunit-*.xml
+GitHubVS.sln.DotSettings
