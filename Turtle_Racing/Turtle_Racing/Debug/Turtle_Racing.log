@@ -1,4 +1,0 @@
-﻿  pch.cpp
-  Turtle_Racing.cpp
-c:\users\nickita\desktop\turtle_racing\turtle_racing\turtle_racing.cpp(31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  Turtle_Racing.vcxproj -> C:\Users\Nickita\Desktop\Turtle_Racing\Debug\Turtle_Racing.exe

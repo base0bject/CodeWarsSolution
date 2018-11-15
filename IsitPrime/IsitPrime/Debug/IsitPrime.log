@@ -1,4 +1,0 @@
-﻿  pch.cpp
-  IsitPrime.cpp
-c:\users\nickita\desktop\isitprime\isitprime\isitprime.cpp(18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-  IsitPrime.vcxproj -> C:\Users\Nickita\Desktop\IsitPrime\Debug\IsitPrime.exe
