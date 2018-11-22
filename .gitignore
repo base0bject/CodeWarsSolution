@@ -27,22 +27,22 @@ build/
 *.Basic Math.sln
 Basic Math/Basic Math/Basic Math.vcxproj.filters
 Basic Math/Basic Math/Basic Math.vcxproj.user
-Basic Math/pch.cpp
-Basic Math/pch.h
+Basic Math/Basic Math/pch.cpp
+Basic Math/Basic Math/pch.h
 
 .AlphabetWars/
 *.AlphabetWars.sln
 AlphabetWars/AlphabetWars/AlphabetWars.vcxproj.filters
 AlphabetWars/AlphabetWarsAlphabetWars.vcxproj.user
-AlphabetWars/pch.cpp
-AlphabetWars/pch.h
+AlphabetWars/AlphabetWars/pch.cpp
+AlphabetWars/AlphabetWars/pch.h
 
 .AlphabetWars2/
 *.AlphabetWars2.sln
 AlphabetWars2/AlphabetWars2/AlphabetWars2.vcxproj.filters
 AlphabetWars2/AlphabetWars2/AlphabetWars2.vcxproj.user
-AlphabetWars2/pch.cpp
-AlphabetWars2/pch.h
+AlphabetWars2/AlphabetWars2/pch.cpp
+AlphabetWars2/AlphabetWars2/pch.h
 
 .Are you Square/
 *.Are you Square.sln
