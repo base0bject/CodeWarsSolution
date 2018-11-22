@@ -20,16 +20,87 @@ build/
 
 # Roslyn cache directories
 *.ide/
+*.vs/
 .vs/
-.Debug/
+*.Debug/
+.Basic Math/
+*.Basic Math.sln
+Basic Math/Basic Math/Basic Math.vcxproj.filters
+Basic Math/Basic Math/Basic Math.vcxproj.user
+Basic Math/pch.cpp
+Basic Math/pch.h
 
-# MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+.AlphabetWars/
+*.AlphabetWars.sln
+AlphabetWars/AlphabetWars/AlphabetWars.vcxproj.filters
+AlphabetWars/AlphabetWarsAlphabetWars.vcxproj.user
+AlphabetWars/pch.cpp
+AlphabetWars/pch.h
 
-#NUNIT
-*.VisualState.xml
-TestResult.xml
+.AlphabetWars2/
+*.AlphabetWars2.sln
+AlphabetWars2/AlphabetWars2/AlphabetWars2.vcxproj.filters
+AlphabetWars2/AlphabetWars2/AlphabetWars2.vcxproj.user
+AlphabetWars2/pch.cpp
+AlphabetWars2/pch.h
+
+.Are you Square/
+*.Are you Square.sln
+Are you Square/Are you Square/Are you Square.vcxproj.filters
+Are you Square/Are you Square/Are you Square.vcxproj.user
+Are you Square/pch.cpp
+Are you Square/pch.h
+
+.Basic Math/
+*.Basic Math.sln
+Basic Math/Basic Math/Basic Math.vcxproj.filters
+Basic Math/Basic Math/Basic Math.vcxproj.user
+Basic Math/pch.cpp
+Basic Math/pch.h
+
+.Beeramid/
+*.Beeramid.sln
+Beeramid/Beeramid/Beeramid.vcxproj.filters
+Beeramid/Beeramid/Beeramid.vcxproj.user
+Beeramid/pch.cpp
+Beeramid/pch.h
+
+.Disemvowel Trolls/
+*.Disemvowel Trolls.sln
+Disemvowel Trolls/Disemvowel Trolls/Disemvowel Trolls.vcxproj.filters
+Disemvowel Trolls/Disemvowel Trolls/Disemvowel Trolls.vcxproj.user
+Disemvowel Trolls/pch.cpp
+Disemvowel Trolls/pch.h
+
+.EvenorOdd/
+*.EvenorOdd.sln
+EvenorOdd/EvenorOdd/EvenorOdd.vcxproj.filters
+EvenorOdd/EvenorOdd/EvenorOdd.vcxproj.user
+EvenorOdd/pch.cpp
+EvenorOdd/pch.h
+
+.Find The Parity Outlier/
+*.Find The Parity Outlier.sln
+Find The Parity Outlier/Find The Parity Outlier/Find The Parity Outlier.vcxproj.filters
+Find The Parity Outlier/Find The Parity Outlier/Find The Parity Outlier.vcxproj.user
+Find The Parity Outlier/pch.cpp
+Find The Parity Outlier/pch.h
+
+
+.Is he gonna survive/
+*.Is he gonna survive.sln
+Is he gonna survive/Is he gonna survive/Is he gonna survive.vcxproj.filters
+Is he gonna survive/Is he gonna survive/Is he gonna survive.vcxproj.user
+Is he gonna survive/pch.cpp
+Is he gonna survive/pch.h
+
+.IsitPrime/
+*.IsitPrime.sln
+IsitPrime/IsitPrime/IsitPrime.vcxproj.filters
+IsitPrime/IsitPrime/IsitPrime.vcxproj.user
+IsitPrime/pch.cpp
+IsitPrime/pch.h
+
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
@@ -52,6 +123,7 @@ dlldata.c
 *.tli
 *.tlh
 *.tmp
+*.sln
 *.tmp_proj
 *.log
 *.vspscc
@@ -60,10 +132,13 @@ dlldata.c
 *.pidb
 *.svclog
 *.scc
-*.vcproj
-*.vcproj.filters
-*.vcproj.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 .h
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
 
 # Chutzpah Test files
 _Chutzpah*
@@ -81,170 +156,4 @@ ipch/
 *.vsp
 *.vspx
 
-# TFS 2012 Local Workspace
-$tf/
 
-# Guidance Automation Toolkit
-*.gpState
-
-# ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# JustCode is a .NET coding addin-in
-.JustCode
-
-# TeamCity is a build add-in
-_TeamCity*
-
-# DotCover is a Code Coverage Tool
-*.dotCover
-
-# NCrunch
-_NCrunch_*
-.*crunch*.local.xml
-
-# MightyMoose
-*.mm.*
-AutoTest.Net/
-
-# Web workbench (sass)
-.sass-cache/
-
-# Installshield output folder
-[Ee]xpress/
-
-# DocProject is a documentation generator add-in
-DocProject/buildhelp/
-DocProject/Help/*.HxT
-DocProject/Help/*.HxC
-DocProject/Help/*.hhc
-DocProject/Help/*.hhk
-DocProject/Help/*.hhp
-DocProject/Help/Html2
-DocProject/Help/html
-
-# Click-Once directory
-publish/
-
-# Publish Web Output
-*.[Pp]ublish.xml
-*.azurePubxml
-# TODO: Comment the next line if you want to checkin your web deploy settings 
-# but database connection strings (with potential passwords) will be unencrypted
-*.pubxml
-*.publishproj
-
-# NuGet Packages
-*.nupkg
-# The packages folder can be ignored because of Package Restore
-**/packages/*
-# except build/, which is used as an MSBuild target.
-!**/packages/build/
-# If using the old MSBuild-Integrated Package Restore, uncomment this:
-#!**/packages/repositories.config
-Packages.dgml
-
-# Windows Azure Build Output
-csx/
-*.build.csdef
-
-# Windows Store app package directory
-AppPackages/
-
-# Others
-sql/
-*.Cache
-ClientBin/
-[Ss]tyle[Cc]op.*
-~$*
-*~
-*.dbmdl
-*.dbproj.schemaview
-*.pfx
-*.publishsettings
-node_modules/
-
-# RIA/Silverlight projects
-Generated_Code/
-
-# Backup & report files from converting an old project file
-# to a newer Visual Studio version. Backup files are not needed,
-# because we have git ;-)
-_UpgradeReport_Files/
-Backup*/
-UpgradeLog*.XML
-UpgradeLog*.htm
-
-# SQL Server files
-*.mdf
-*.ldf
-
-# Business Intelligence projects
-*.rdl.data
-*.bim.layout
-*.bim_*.settings
-
-# Microsoft Fakes
-FakesAssemblies/
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must end with two \r
-Icon
-
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-# Windows
-# =========================
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-#OpenCover output
-coverage.xml
-
-#Msbuild binary log output
-output.binlog
-
-AkavacheSqliteLinkerOverride.cs
-NuGetBuild
-WiX.Toolset.DummyFile.txt
-nunit-*.xml
-GitHubVS.sln.DotSettings
