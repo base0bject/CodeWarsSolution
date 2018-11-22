@@ -91,8 +91,8 @@ Find The Parity Outlier/Find The Parity Outlier/pch.h
 *.Is he gonna survive.sln
 Is he gonna survive/Is he gonna survive/Is he gonna survive.vcxproj.filters
 Is he gonna survive/Is he gonna survive/Is he gonna survive.vcxproj.user
-Is he gonna survive/pch.cpp
-Is he gonna survive/pch.h
+Is he gonna survive/Is he gonna survive/pch.cpp
+Is he gonna survive/Is he gonna survive/pch.h
 
 .IsitPrime/
 *.IsitPrime.sln
@@ -101,6 +101,62 @@ IsitPrime/IsitPrime/IsitPrime.vcxproj.user
 IsitPrime/IsitPrime/pch.cpp
 IsitPrime/IsitPrime/pch.h
 
+.Latest Digit of Huge Number/
+*.Latest Digit of Huge Number.sln
+Latest Digit of Huge Number/Latest Digit of Huge Number/Latest Digit of Huge Number.vcxproj.filters
+Latest Digit of Huge Number/Latest Digit of Huge Number/Latest Digit of Huge Number.vcxproj.user
+Latest Digit of Huge Number/Latest Digit of Huge Number/pch.cpp
+Latest Digit of Huge Number/Latest Digit of Huge Number/pch.h
+
+.Multiples3and5/
+*.Multiples3and5.sln
+Multiples3and5/Multiples3and5/Multiples3and5.vcxproj.filters
+Multiples3and5/Multiples3and5/Multiples3and5.vcxproj.user
+Multiples3and5/Multiples3and5/pch.cpp
+Multiples3and5/Multiples3and5/pch.h
+
+.Pillars/
+*.Pillars.sln
+Pillars/Pillars/Pillars.vcxproj.filters
+Pillars/Pillars/Pillars.vcxproj.user
+Pillars/Pillars/pch.cpp
+Pillars/Pillars/pch.h
+
+
+.Playing with Digits/
+*.Playing with Digits.sln
+Playing with Digits/Playing with Digits/Playing with Digits.vcxproj.filters
+Playing with Digits/Playing with Digits/Playing with Digits.vcxproj.user
+Playing with Digits/Playing with Digits/pch.cpp
+Playing with Digits/Playing with Digits/pch.h
+
+.Points in Cycle/
+*.Points in Cycle.sln
+Points in Cycle/Points in Cycle/Points in Cycle.vcxproj.filters
+Points in Cycle/Points in Cycle/Points in Cycle.vcxproj.user
+Points in Cycle/Points in Cycle/pch.cpp
+Points in Cycle/Points in Cycle/pch.h
+
+.Scramblies/
+*.Scramblies.sln
+Scramblies/Scramblies/Scramblies.vcxproj.filters
+Scramblies/Scramblies/Scramblies.vcxproj.user
+Scramblies/Scramblies/pch.cpp
+Scramblies/Scramblies/pch.h
+
+.ShortestHorsePath/
+*.ShortestHorsePath.sln
+ShortestHorsePath/ShortestHorsePath/ShortestHorsePath.vcxproj.filters
+ShortestHorsePath/ShortestHorsePath/ShortestHorsePath.vcxproj.user
+ShortestHorsePath/ShortestHorsePath/pch.cpp
+ShortestHorsePath/ShortestHorsePath/pch.h
+
+.Turtle_Racing/
+*.Turtle_Racing.sln
+Turtle_Racing/Turtle_Racing/Turtle_Racing.vcxproj.filters
+Turtle_Racing/Turtle_Racing/Turtle_Racing.vcxproj.user
+Turtle_Racing/Turtle_Racing/pch.cpp
+Turtle_Racing/Turtle_Racing/pch.h
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
