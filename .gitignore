@@ -165,7 +165,15 @@ I love you, a little , a lot, passionately/I love you, a little , a lot, passion
 I love you, a little , a lot, passionately/I love you, a little , a lot, passionately/pch.cpp
 I love you, a little , a lot, passionately/I love you, a little , a lot, passionately/pch.h
 
+.Mexican Wawe/
+*.Mexican Wawe.sln
+Mexican Wawe/Mexican Wawe/Mexican Wawe.vcxproj.filters
+Mexican Wawe/Mexican Wawe/Mexican Wawe.vcxproj.user
+Mexican Wawe/Mexican Wawe/pch.cpp
+Mexican Wawe/Mexican Wawe/pch.h
 
+
+Mexican Wawe
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
