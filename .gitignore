@@ -172,6 +172,14 @@ Mexican Wawe/Mexican Wawe/Mexican Wawe.vcxproj.user
 Mexican Wawe/Mexican Wawe/pch.cpp
 Mexican Wawe/Mexican Wawe/pch.h
 
+.Last Digit of Large Number/
+*.Last Digit of Large Number.sln
+Last Digit of Large Number/Last Digit of Large Number/Last Digit of Large Number.vcxproj.filters
+Last Digit of Large Number/Last Digit of Large Number/Last Digit of Large Number.vcxproj.user
+Last Digit of Large Number/Last Digit of Large Number/pch.cpp
+Last Digit of Large Number/Last Digit of Large Number/pch.h
+
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
