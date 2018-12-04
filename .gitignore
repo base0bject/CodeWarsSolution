@@ -193,6 +193,12 @@ Rectangle Rotation/Rectangle Rotation/Rectangle Rotation.vcxproj.user
 Rectangle Rotation/Rectangle Rotation/pch.cpp
 Rectangle Rotation/Rectangle Rotation/pch.h
 
+.TwoToOne/
+*.TwoToOne.sln
+TwoToOne/TwoToOne/TwoToOne.vcxproj.filters
+TwoToOne/TwoToOne/TwoToOne.vcxproj.user
+TwoToOne/TwoToOne/pch.cpp
+TwoToOne/TwoToOne/pch.h
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
