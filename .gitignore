@@ -186,6 +186,13 @@ Double Cola/Double Cola/Double Cola.vcxproj.user
 Double Cola/Double Cola/pch.cpp
 Double Cola/Double Cola/pch.h
 
+.Rectangle Rotation/
+*.Rectangle Rotation.sln
+Rectangle Rotation/Rectangle Rotation/Rectangle Rotation.vcxproj.filters
+Rectangle Rotation/Rectangle Rotation/Rectangle Rotation.vcxproj.user
+Rectangle Rotation/Rectangle Rotation/pch.cpp
+Rectangle Rotation/Rectangle Rotation/pch.h
+
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
