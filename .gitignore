@@ -207,6 +207,15 @@ Roman Numerals Encoder/Roman Numerals Encoder/Roman Numerals Encoder.vcxproj.use
 Roman Numerals Encoder/Roman Numerals Encoder/pch.cpp
 Roman Numerals Encoder/Roman Numerals Encoder/pch.h
 
+.Deodorant Evaporator/
+*.Deodorant Evaporator.sln
+Deodorant Evaporator/Deodorant Evaporator/Deodorant Evaporator.vcxproj.filters
+Deodorant Evaporator/Deodorant Evaporator/Deodorant Evaporator.vcxproj.user
+Deodorant Evaporator/Deodorant Evaporator/pch.cpp
+Deodorant Evaporator/Deodorant Evaporator/pch.h
+
+
+
 
 
 # Build Results of an ATL Project
