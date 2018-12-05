@@ -200,6 +200,15 @@ TwoToOne/TwoToOne/TwoToOne.vcxproj.user
 TwoToOne/TwoToOne/pch.cpp
 TwoToOne/TwoToOne/pch.h
 
+.Roman Numerals Encoder/
+*.Roman Numerals Encoder.sln
+Roman Numerals Encoder/Roman Numerals Encoder/Roman Numerals Encoder.vcxproj.filters
+Roman Numerals Encoder/Roman Numerals Encoder/Roman Numerals Encoder.vcxproj.user
+Roman Numerals Encoder/Roman Numerals Encoder/pch.cpp
+Roman Numerals Encoder/Roman Numerals Encoder/pch.h
+
+
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
