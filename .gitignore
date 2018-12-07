@@ -235,6 +235,26 @@ Drying Potatoes/Drying Potatoes/Drying Potatoes.vcxproj.user
 Drying Potatoes/Drying Potatoes/pch.cpp
 Drying Potatoes/Drying Potatoes/pch.h
 
+.Calculate average/
+*.Calculate average.sln
+Calculate average/Calculate average/Calculate average.vcxproj.filters
+Calculate average/Calculate average/Calculate average.vcxproj.user
+Calculate average/Calculate average/pch.cpp
+Calculate average/Calculate average/pch.h
+
+.Vowel Count/
+*.Vowel Count.sln
+Vowel Count/Vowel Count/Vowel Count.vcxproj.filters
+Vowel Count/Vowel Count/Vowel Count.vcxproj.user
+Vowel Count/Vowel Count/pch.cpp
+Vowel Count/Vowel Count/pch.h
+
+.Find the stray number/
+*.Find the stray number.sln
+Find the stray number/Find the stray number/Find the stray number.vcxproj.filters
+Find the stray number/Find the stray number/Find the stray number.vcxproj.user
+Find the stray number/Find the stray number/pch.cpp
+Find the stray number/Find the stray number/pch.h
 
 
 # Build Results of an ATL Project
