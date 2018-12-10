@@ -256,6 +256,49 @@ Find the stray number/Find the stray number/Find the stray number.vcxproj.user
 Find the stray number/Find the stray number/pch.cpp
 Find the stray number/Find the stray number/pch.h
 
+.Snail crawls up/
+*.Snail crawls up.sln
+Snail crawls up/Snail crawls up/Snail crawls up.vcxproj.filters
+Snail crawls up/Snail crawls up/Snail crawls up.vcxproj.user
+Snail crawls up/Snail crawls up/pch.cpp
+Snail crawls up/Snail crawls up/pch.h
+
+.Form The Minimum/
+*.Form The Minimum.sln
+Form The Minimum/Form The Minimum/Form The Minimum.vcxproj.filters
+Form The Minimum/Form The Minimum/Form The Minimum.vcxproj.user
+Form The Minimum/Form The Minimum/pch.cpp
+Form The Minimum/Form The Minimum/pch.h
+
+.Growing Plant/
+*.Growing Plant.sln
+Growing Plant/Growing Plant/Growing Plant.vcxproj.filters
+Growing Plant/Growing Plant/Growing Plant.vcxproj.user
+Growing Plant/Growing Plant/pch.cpp
+Growing Plant/Growing Plant/pch.h
+
+.Maximum Length/
+*.Maximum Length.sln
+Maximum Length/Maximum Length/Maximum Length.vcxproj.filters
+Maximum Length/Maximum Length/Maximum Length.vcxproj.user
+Maximum Length/Maximum Length/pch.cpp
+Maximum Length/Maximum Length/pch.h
+
+.Alphabet symmetry/
+*.Alphabet symmetry.sln
+Alphabet symmetry/Alphabet symmetry/Alphabet symmetry.vcxproj.filters
+Alphabet symmetry/Alphabet symmetry/Alphabet symmetry.vcxproj.user
+Alphabet symmetry/Alphabet symmetry/pch.cpp
+Alphabet symmetry/Alphabet symmetry/pch.h
+
+.Reversed sequence/
+*.Reversed sequence.sln
+Reversed sequence/Reversed sequence/Reversed sequence.vcxproj.filters
+Reversed sequence/Reversed sequence/Reversed sequence.vcxproj.user
+Reversed sequence/Reversed sequence/pch.cpp
+Reversed sequence/Reversed sequence/pch.h
+
+
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
