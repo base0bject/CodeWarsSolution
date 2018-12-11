@@ -298,6 +298,31 @@ Reversed sequence/Reversed sequence/Reversed sequence.vcxproj.user
 Reversed sequence/Reversed sequence/pch.cpp
 Reversed sequence/Reversed sequence/pch.h
 
+.Twice as Old/
+*.Twice as Old.sln
+Twice as Old/Twice as Old/Twice as Old.vcxproj.filters
+Twice as Old/Twice as Old/Twice as Old.vcxproj.user
+Twice as Old/Twice as Old/pch.cpp
+Twice as Old/Twice as Old/pch.h
+
+.Sum of Digit/
+*.Sum of Digit.sln
+Sum of Digit/Sum of Digit/Sum of Digit.vcxproj.filters
+Sum of Digit/Sum of Digit/Sum of Digit.vcxproj.user
+Sum of Digit/Sum of Digit/pch.cpp
+Sum of Digit/Sum of Digit/pch.h
+
+.Simple Multiply/
+*.Simple Multiply.sln
+Simple Multiply/Simple Multiply/Simple Multiply.vcxproj.filters
+Simple Multiply/Simple Multiply/Simple Multiply.vcxproj.user
+Simple Multiply/Simple Multiply/pch.cpp
+Simple Multiply/Simple Multiply/pch.h
+
+
+
+
+
 
 
 # Build Results of an ATL Project
