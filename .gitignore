@@ -326,12 +326,12 @@ Cat and Mouse - Harder Version/Cat and Mouse - Harder Version/Cat and Mouse - Ha
 Cat and Mouse - Harder Version/Cat and Mouse - Harder Version/pch.cpp
 Cat and Mouse - Harder Version/Cat and Mouse - Harder Version/pch.h
 
-.HTML dynamic color string generation/
-*.HTML dynamic color string generation.sln
-HTML dynamic color string generation/HTML dynamic color string generation/HTML dynamic color string generation.vcxproj.filters
-HTML dynamic color string generation/HTML dynamic color string generation/HTML dynamic color string generation.vcxproj.user
-HTML dynamic color string generation/HTML dynamic color string generation/pch.cpp
-HTML dynamic color string generation/HTML dynamic color string generation/pch.h
+.Rooks/
+*.Rooks.sln
+Rooks/Rooks/Rooks.vcxproj.filters
+Rooks/Rooks/Rooks.vcxproj.user
+Rooks/Rooks/pch.cpp
+Rooks/Rooks/pch.h
 
 
 # Build Results of an ATL Project
