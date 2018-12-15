@@ -333,6 +333,27 @@ Rooks/Rooks/Rooks.vcxproj.user
 Rooks/Rooks/pch.cpp
 Rooks/Rooks/pch.h
 
+.Tidy Number/
+*.Tidy Number.sln
+Tidy Number/Tidy Number/Tidy Number.vcxproj.filters
+Tidy Number/Tidy Number/Tidy Number.vcxproj.user
+Tidy Number/Tidy Number/pch.cpp
+Tidy Number/Tidy Number/pch.h
+
+.Even numbers in an array/
+*.Even numbers in an array.sln
+Even numbers in an array/Even numbers in an array/Even numbers in an array.vcxproj.filters
+Even numbers in an array/Even numbers in an array/Even numbers in an array.vcxproj.user
+Even numbers in an array/Even numbers in an array/pch.cpp
+Even numbers in an array/Even numbers in an array/pch.h
+
+.Circle of Numbers/
+*.Circle of Numbers.sln
+Circle of Numbers/Circle of Numbers/Circle of Numbers.vcxproj.filters
+Circle of Numbers/Circle of Numbers/Circle of Numbers.vcxproj.user
+Circle of Numbers/Circle of Numbers/pch.cpp
+Circle of Numbers/Circle of Numbers/pch.h
+
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
